@@ -1,7 +1,7 @@
 # Activate and configure extensions
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions
 
-set :slim, { :format => :html5 }
+set :slim, { :format => :html }
 
 activate :autoprefixer do |prefix|
   prefix.browsers = "last 2 versions"
