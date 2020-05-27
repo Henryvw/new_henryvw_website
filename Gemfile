@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'slim'
-gem 'middleman', '~> 4.2'
+gem 'middleman', '~> 5.0.0.rc.1'
 gem 'middleman-autoprefixer', '~> 2.7'
 gem 'pry'
 gem 'tzinfo-data', platforms: [:mswin, :mingw, :jruby, :x64_mingw]
